@@ -17,6 +17,14 @@ module.exports = function(environment) {
         Date: false
       }
     },
+    firebase: {
+      apiKey: "AIzaSyBMk4FsOSXgXnbu3MzMvumR5yDf9Hphq3Y",
+    authDomain: "super-rentals-204be.firebaseapp.com",
+    databaseURL: "https://super-rentals-204be.firebaseio.com",
+    projectId: "super-rentals-204be",
+    storageBucket: "super-rentals-204be.appspot.com",
+    messagingSenderId: "810648257847"
+    },
 
     APP: {
       // Here you can pass flags/options to your application instance
